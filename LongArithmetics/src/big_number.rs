@@ -384,6 +384,7 @@ impl BigNumber {
         }
     }
 
+    // https://leetcode.com/problems/divide-two-integers/solutions/13407/c-bit-manipulations
     pub fn modulo(&self, other: &BigNumber) -> BigNumber {
         let mut quotient: BigNumber = BigNumber::new();
         quotient.set_hex("0000000000000000").unwrap();
