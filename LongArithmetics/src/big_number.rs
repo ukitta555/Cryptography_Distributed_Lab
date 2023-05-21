@@ -1,5 +1,5 @@
 use std::cmp;
-use hex;
+// use hex;
 use std::collections::VecDeque;
 use hex::FromHexError;
 use std::cmp::Ordering;
