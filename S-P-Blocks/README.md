@@ -21,7 +21,7 @@
     <p>
         Code example (should output that the code didn't panic, otherwise there would be a logical error in the code):
     </p>
-    <img src="img.png" alt = "code of an example">
+    <img src="img_2.png" alt = "code of an example">
     <p>
         Actual output:
     </p>
