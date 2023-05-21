@@ -12,10 +12,10 @@
         Launch Instructions
     </h2>
     <p>
-        To launch the program (same as tests), type <code> cargo run</code> in the terminal while being in the project directory.
+        To launch the program (same as tests), type <code>cargo run</code> in the terminal while being in the project directory.
     </p>
     <p>
-        To launch the tests for the program, type <code> cargo test</code> in the terminal while being in the project directory.
+        To launch the tests for the program, type <code>cargo test</code> in the terminal while being in the project directory.
     </p>
     <h2>Example: </h2>
     <p>
